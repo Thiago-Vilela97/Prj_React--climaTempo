@@ -1,0 +1,12 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    background-image: url('https://blog4.mfrural.com.br/wp-content/uploads/2020/02/clima.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
